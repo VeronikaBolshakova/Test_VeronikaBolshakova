@@ -3,7 +3,7 @@
 
 void main() {
 
-	std::cout << "Veronika is a dumbass" << std::endl;
+	std::cout << "Joan is a dumbass" << std::endl;
 
 
 
